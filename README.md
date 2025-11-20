@@ -18,10 +18,10 @@ Dibuat Oleh :
 ### Home
 
 <p align="center">
-  <img src="screenshots/home.jpeg" width="260"/>
-  <img src="screenshots/favorite.jpeg" width="260"/>
-  <img src="screenshots/add_recipe.jpeg" width="260"/>
-  <img src="screenshots/pubspec.png" width="260"/>
+  <img src="docs/screenshots/home.jpeg" width="260"/>
+  <img src="docs/screenshots/favorite.jpeg" width="260"/>
+  <img src="docs/creenshots/add_recipe.jpeg" width="260"/>
+  <img src="docs/screenshots/pubspec.png" width="260"/>
 </p>
 
 
@@ -29,7 +29,7 @@ Dibuat Oleh :
 ---
 
 ## 📄 Laporan
-📘 **[Klik untuk membuka laporan](docs/laporan aplikasi _catalog_resep_makanan.pdf)**
+📘 **[Klik untuk membuka laporan](docs/laporan_aplikasi_catalog_resep_makanan.pdf)**
 
 ## 🎥 Video Demo
 ▶️ **[Klik untuk menonton video demo](https://drive.google.com/drive/folders/1I8t8toDwCKalpEbC3eJF6IXL6qDeDh6c?usp=drive_link)**

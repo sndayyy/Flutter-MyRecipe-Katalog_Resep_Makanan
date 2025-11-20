@@ -15,24 +15,24 @@ Dibuat Oleh :
 
 ---
 
-## 📱 Tampilan Aplikasi
-
 ### Home
-<img src="screenshots/home.jpeg" width="350"/>
-<img src="screenshots/detail.jpeg" width="350"/>
-<img src="screenshots/add_recipe.jpeg" width="350"/>
-<img src="screenshots/pubspec.png" width="350"/>
+
+<p align="center">
+  <img src="screenshots/home.jpeg" width="260"/>
+  <img src="screenshots/favorite.jpeg" width="260"/>
+  <img src="screenshots/add_recipe.jpeg" width="260"/>
+  <img src="screenshots/pubspec.png" width="260"/>
+</p>
+
+
 
 ---
 
 ## 📄 Laporan
-📘 **[Klik untuk membuka laporan](docs/laporan aplikasi _catalog resep makanan.pdf)**
+📘 **[Klik untuk membuka laporan](docs/laporan aplikasi _catalog_resep_makanan.pdf)**
 
 ## 🎥 Video Demo
-▶️ **[Klik untuk menonton video demo](docs/demo.mp4)**
-
-## Google Drive
-▶️ **[Klik untuk membuka link GD](https://drive.google.com/drive/folders/1I8t8toDwCKalpEbC3eJF6IXL6qDeDh6c?usp=drive_link)**
+▶️ **[Klik untuk menonton video demo](https://drive.google.com/drive/folders/1I8t8toDwCKalpEbC3eJF6IXL6qDeDh6c?usp=drive_link)**
 
 ---
 

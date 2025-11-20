@@ -20,7 +20,7 @@ Dibuat Oleh :
 <p align="center">
   <img src="docs/screenshots/home.jpeg" width="260"/>
   <img src="docs/screenshots/favorite.jpeg" width="260"/>
-  <img src="docs/creenshots/add_recipe.jpeg" width="260"/>
+  <img src="docs/screenshots/add_recipe.jpeg" width="260"/>
   <img src="docs/screenshots/pubspec.png" width="260"/>
 </p>
 
